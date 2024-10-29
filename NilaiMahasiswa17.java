@@ -34,7 +34,7 @@ public class NilaiMahasiswa17 {
         System.out.println("Nilai tertinggi: " + nilaiTertinggi);
         System.out.println("Nilai terendah: " + nilaiTerendah);
 
-        System.out.println("\n--- Hasil ---");
+        
         System.out.print("Nilai yang dimasukkan: ");
         for (int nilai : nilaiMahasiswa) {
             System.out.print(nilai + " ");
